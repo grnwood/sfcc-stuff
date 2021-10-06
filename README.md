@@ -2,8 +2,9 @@
 
 A few tools.
 
-#Tired of going to the Salesforce Marketplace to look for a cartridge?
-##If you don't want to use the only page on the internet (since pre Frontpage Extensions) that does not have a search capability, use this.
+## sfcc-partners.py
+### Tired of going to the Salesforce Marketplace to look for a cartridge?
+### If you don't want to use the only page on the internet (since pre Frontpage Extensions) that does not have a search capability, use this.
 
 This will give you a quick way to see if it's worth even looking.
 
